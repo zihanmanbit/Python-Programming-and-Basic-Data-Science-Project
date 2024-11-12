@@ -10,7 +10,6 @@ Shahjalal University of Science and Technology, Sylhet 3114<br>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Stroke Prediction Project</title>
 </head>
 <body>
 
